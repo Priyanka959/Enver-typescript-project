@@ -1,12 +1,12 @@
 import React from 'react'
 
 const items = [
-  {title: 'Development', desc: 'Create a platform with the best and coolest quality from us.', icon: '/src/assets/Development.png'},
-  {title: 'UI/UX Designer', desc: 'We provide UI/UX Design services, and of course with the best quality.', icon: '/src/assets/uiux.png'},
-  {title: 'Graphik Designer', desc: 'We provide Graphic Design services, with the best designers.', icon: '/src/assets/Graphik_designer.png'},
-  {title: 'Motion Graphik', desc: 'Create a platform with the best and coolest quality from us.', icon: '/src/assets/Motion_Graphik.png'},
-  {title: 'Photography', desc: 'We provide Photography services, with the best quality.', icon: '/src/assets/Photography.png'},
-  {title: 'Videography', desc: 'Create a platform with the best and coolest quality from us.', icon: '/src/assets/videography.png'}
+  {title: 'Development', desc: 'Create a platform with the best and coolest quality from us.', icon: '/assets/Development.png'},
+  {title: 'UI/UX Designer', desc: 'We provide UI/UX Design services, and of course with the best quality.', icon: '/assets/uiux.png'},
+  {title: 'Graphik Designer', desc: 'We provide Graphic Design services, with the best designers.', icon: '/assets/Graphik_designer.png'},
+  {title: 'Motion Graphik', desc: 'Create a platform with the best and coolest quality from us.', icon: '/assets/Motion_Graphik.png'},
+  {title: 'Photography', desc: 'We provide Photography services, with the best quality.', icon: '/assets/Photography.png'},
+  {title: 'Videography', desc: 'Create a platform with the best and coolest quality from us.', icon: '/assets/videography.png'}
 ]
 
 export default function Services() {

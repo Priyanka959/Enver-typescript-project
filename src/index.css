@@ -18,8 +18,10 @@ body{
 }
 
 .container-center{
-  @apply max-w-6xl mx-auto px-6;
+  @apply max-w-[88%] mx-auto px-3;
 }
+
+
 
 .glass-card{
   background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));

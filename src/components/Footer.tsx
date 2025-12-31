@@ -12,6 +12,7 @@ export default function Footer(){
           <a href="#">Support</a>
           <a href="#">Privacy Policy</a>
           <a href="#">Terms and Conditions</a>
+          <a href="#">&copy; 2024 Enver all rights reserved</a>
         </div>
       </div>
     </footer>

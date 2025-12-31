@@ -14,7 +14,7 @@ export default function Hero(){
 
         <div className="flex justify-center md:justify-end">
           <div className="w-72 h-96 glass-card rounded-3xl relative overflow-hidden">
-            <img src="/src/assets/hero-person.jpg" alt="hero" className="absolute right-0 top-0 h-full object-cover" />
+            <img src="/assets/hero-person.jpg" alt="hero" className="absolute right-0 top-0 h-full object-cover" />
           </div>
         </div>
       </div>

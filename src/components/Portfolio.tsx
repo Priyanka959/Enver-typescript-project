@@ -1,9 +1,9 @@
 import React from 'react'
 
 const images = [
-  '/src/assets/p1.png',
-  '/src/assets/p2.png',
-  '/src/assets/p3.jpg'
+  '/assets/p1.png',
+  '/assets/p2.png',
+  '/assets/p3.jpg'
 ]
 
 export default function Portfolio(){
