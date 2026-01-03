@@ -9,4 +9,3 @@ npm install
 npm run dev
 ```
 
-Place your image assets in `src/assets` (see `src/assets/README.md`).
